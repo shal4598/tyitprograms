@@ -1,0 +1,4 @@
+c:\users\purushottam\documents\visual studio 2010\Projects\myfirstprogram\myfirstprogram\bin\Debug\myfirstprogram.exe
+c:\users\purushottam\documents\visual studio 2010\Projects\myfirstprogram\myfirstprogram\bin\Debug\myfirstprogram.pdb
+c:\users\purushottam\documents\visual studio 2010\Projects\myfirstprogram\myfirstprogram\obj\x86\Debug\myfirstprogram.exe
+c:\users\purushottam\documents\visual studio 2010\Projects\myfirstprogram\myfirstprogram\obj\x86\Debug\myfirstprogram.pdb
